@@ -1,3 +1,7 @@
 *.csv
-datasets/
+<<<<<<< HEAD
+
+=======
+data-raw
+>>>>>>> refs/remotes/origin/main
 secrets.txt
